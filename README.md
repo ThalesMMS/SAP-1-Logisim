@@ -5,7 +5,8 @@ An implementation of the **Simple-As-Possible computer (SAP-1)** built in Logisi
 ![SAP-1 Circuit Overview](docs/images/sap1-ui.jpeg)
 
 ## Prerequisites
-- Logisim-evolution 3.8.0 or newer. A direct download link is stored in `docs/logisim-evolution-download.txt` and the official release page is [available on GitHub](https://github.com/logisim-evolution/logisim-evolution/releases).
+- Logisim-evolution 3.8.0 or newer. Download the JAR file directly [here](https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.8.0/logisim-evolution-3.8.0-all.jar).
+- The official release page is [available on GitHub](https://github.com/logisim-evolution/logisim-evolution/releases).
 
 ## Getting Started
 1. Launch Logisim-evolution.
